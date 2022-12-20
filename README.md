@@ -39,6 +39,10 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ## Papers
 
+### Not indexed, recent
+
+- GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [Paper](https://openreview.net/forum?id=YfwMIDhPccD) [Project Page](https://geneface.github.io/) 
+
 ### 2D Video - Person independent
 
 - Audio-Visual Face Reenactment [WACV 2023] [Paper](https://arxiv.org/abs/2210.02755) [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) [Code](https://github.com/mdv3101/AVFR-Gan/)
@@ -70,7 +74,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 - AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [ICCV 2021] [Paper](https://arxiv.org/abs/2103.11078)  [Code](https://github.com/YudongGuo/AD-NeRF) 
 - FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning [ICCV 2021] [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.pdf) [Code](https://github.com/zhangchenxu528/FACIAL)
 - Learned Spatial Representations for Few-shot Talking-Head Synthesis [ICCV 2021] [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meshry_Learned_Spatial_Representations_for_Few-Shot_Talking-Head_Synthesis_ICCV_2021_paper.pdf) 
-- Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation [CVPR 2021] [Paper](https://arxiv.org/abs/2104.11116)  [Code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)  [ProjectPage](https://hangz-nju-cuhk.github.io/projects/PC-AVS)
+- ⭐ Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation [CVPR 2021] [Paper](https://arxiv.org/abs/2104.11116)  [Code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)  [ProjectPage](https://hangz-nju-cuhk.github.io/projects/PC-AVS)
 - One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing [CVPR 2021] [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.pdf)
 - Audio-Driven Emotional Video Portraits [CVPR 2021] [Paper](https://jixinya.github.io/projects/evp/resources/evp.pdf)  [Code](https://github.com/jixinya/EVP/)
 - AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person [arXiv 2021] [Paper](https://arxiv.org/pdf/2108.04325.pdf)
